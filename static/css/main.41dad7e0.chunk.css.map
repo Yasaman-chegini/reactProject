@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,GACE,eACF,CACA,MACE,iBAAkB,CAClB,OAAQ,CACR,QAAS,CACT,YACF","file":"main.41dad7e0.chunk.css","sourcesContent":["ul {\n  list-style: none;\n}\n.game {\n  position: absolute;\n  top: 20%;\n  left: 30%;\n  display: flex;\n}"]}
